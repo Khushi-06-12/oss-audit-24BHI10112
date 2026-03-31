@@ -2,7 +2,6 @@
 Open Source Software Audit project with 5 Bash scripts demonstrating Linux system analysis and automation.
 # OSS Audit Project
 
-## Student Details
 Name: Khushi Raisinghani  
 Roll Number: 24BHI10112 
 
